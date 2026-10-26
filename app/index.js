@@ -1,1 +1,1 @@
-console.log("Ready");
+console.log("Baseline direct push allowed");
