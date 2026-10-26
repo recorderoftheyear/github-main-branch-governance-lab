@@ -1,1 +1,1 @@
-console.log("Ready for the negative test");
+console.log("Baseline direct push allowed");
