@@ -1,1 +1,1 @@
-console.log("Ready for the negative testosterone");
+console.log("Ready for the negative test");
