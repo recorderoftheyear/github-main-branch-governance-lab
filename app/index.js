@@ -1,1 +1,1 @@
-console.log("Ready for the first change");
+console.log("Ready for the negative test");
